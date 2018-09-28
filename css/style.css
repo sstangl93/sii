@@ -10,6 +10,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h2 {
 	font-size: 2.5em;
+	white-space: nowrap;
 }
 
 h3 {
@@ -233,11 +234,11 @@ footer .copyright {
 
 	
 	h2 {
-		font-size: 1.75em;
+		font-size: 1.95em;
 	}
 
 	h3 {
-		font-size: 1.3m;
+		font-size: 1.3em;
 	}
 
 	h4 {

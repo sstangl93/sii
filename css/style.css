@@ -181,8 +181,8 @@ section {
 
 .largeIcon-sii {
 	font-size: 60px;
-	opacity: .6;
-	color: #52c1ec;
+	opacity: 1;
+	color: #54c0eb;;
 	position: relative;
 	z-index: 10;
 }

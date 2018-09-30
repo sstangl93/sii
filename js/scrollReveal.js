@@ -43,13 +43,13 @@ sr.reveal('.largeIcon-sii', {
 	delay: 500,
 	duration: 1000,
 	origin: 'left',
-	distance: '200px',
+	distance: '100px',
 	viewFactor: 0.2
 });
 sr.reveal('.arrowText', {
 	delay: 1000,
 	duration: 1000,
 	origin: 'left',
-	distance: '200px',
+	distance: '100px',
 	viewFactor: 0.2
 });

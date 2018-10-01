@@ -109,12 +109,6 @@ section {
 	height: 800px;
 }
 
-#showcase-about .showcase-right {
-    background: rgba(0,0,0,0.9);
-    padding: 20px;
-    color: #ccc;
-}
-
 #showcase h1 {
 	font-size: 50px;
 	margin-bottom: 20px;
